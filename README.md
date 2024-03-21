@@ -52,5 +52,3 @@ This is the django project used by various companies to provide the online jobs.
  
 ---------
 
-* ### View Live Site
-[Career Cloud](https://carrercloud.herokuapp.com/)
